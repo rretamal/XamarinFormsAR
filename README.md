@@ -4,6 +4,7 @@ Small project to port the ARCore and ARKit examples to Xamarin Forms
 For now is just only the ARCore version.
 
 Project based on the following repositories:
+
 [michaelzaletel/ARFormsSample](https://github.com/michaelzaletel/ARFormsSample)
 
 [xamarin/XamarinComponents](https://github.com/xamarin/XamarinComponents/tree/master/Android/ARCore/samples)
