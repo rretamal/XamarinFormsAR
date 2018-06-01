@@ -5,6 +5,7 @@ For now is just only the ARCore version.
 
 Project based on the following repositories:
 [michaelzaletel/ARFormsSample](https://github.com/michaelzaletel/ARFormsSample)
+
 [xamarin/XamarinComponents](https://github.com/xamarin/XamarinComponents/tree/master/Android/ARCore/samples)
 
 ****
@@ -16,6 +17,7 @@ Hasta el momento solo se encuentra la versión con el ARCore
 Proyecto basado en los siguientes repositorios:
 
 [michaelzaletel/ARFormsSample](https://github.com/michaelzaletel/ARFormsSample)
+
 [xamarin/XamarinComponents](https://github.com/xamarin/XamarinComponents/tree/master/Android/ARCore/samples)
 
 
